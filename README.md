@@ -1,21 +1,22 @@
 ## Product Data Analysis
 
+### Business Insights:
+- The data requires the creation of reference tables for utilizing dates and products effectively.
+- It's crucial to maintain separate tables for the Product Category and Product Subcategory.
+- Prioritize retail sales as High, Mid, & Low.
+- Implement an interactive slicer based on Country Flag in the report.
 
-The business insights of this dashboard report are following:
-• The data requires some reference table to be created which can be used for using the date and products.
-• It is important that the product Category table is kept separate in the model as well as the Product Sub category table.
-• Retails sales needs to have priority in terms of High, Mid & Low.
-• An Interactive slicer in terms of Country Flag in the report
-• The Dashboard needs to highlight the following:
+### Dashboard Highlights:
+- Units Sold by Category
+- Total Units Sold
+- Retail Units Sold
+- Sales Units Sold
 
-o Units Sold by Category
-o Total Unit sold
-o Retail Unit Sold
-o Sales Unit Sold
+### Key Dashboard Metrics:
+- Highlight the top 10 new retailers based on units sold.
+- Identify top-performing products by total units sold.
+- Analyze top-performing subcategories in terms of units sold.
+- Evaluate units sold during Promotion events categorized by reseller, no discount, and customers.
+- Review unit sales categorized by Components, Accessories, Clothing, and Bikes.
+- Examine unit sales concerning retail counters.
 
-• Among all the new Retailer top 10 should be highlighted in terms of unit sold
-• Top performing products in terms of Unit sold
-• Top performing in subcategories in terms of Unit sold
-• Unit sold in Promotion events in terms of reseller, no discount and Customers
-• Unit sold in terms Components, Accessories, clothing, Bikes
-• Unit sold in terms of retail counter.
